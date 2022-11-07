@@ -19,7 +19,7 @@ if (topic === 'HTML') {
  }
 }
 listTopics()
-
+selectTopic()
 
 
 
