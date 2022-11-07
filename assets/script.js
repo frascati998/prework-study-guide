@@ -22,4 +22,6 @@ if (topic === 'HTML') {
 
 
 var shapes = ["triangle", "square", "pentagon", "circle"];
-console.log(shapes[0]);
+for(var x = 0; x < shapes.length; x++) {
+ console.log(shapes[x]);
+}
